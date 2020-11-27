@@ -1,0 +1,5 @@
+c1=str(input('Introduceti primul cuv='))
+c2=str(input('Introduceti al doilea cuv='))
+c3=str(input('Introduceti al treilea cuv='))
+c4=str(input('Introduceti al patrulra cuvint='))
+print(c1[0:2],c2[0],c3[0:3],c4[0:3],sep="")
